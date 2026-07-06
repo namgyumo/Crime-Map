@@ -28,4 +28,4 @@
 ### 개발 환경
 - Antigravity IDE
 - Codex CLI
-- Codex CLI
+
