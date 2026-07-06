@@ -10,6 +10,14 @@
 
 ## 기술 스택
 
+| 구분 | 기술 |
+|------|------|
+| **프론트엔드** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| **백엔드** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) |
+| **통신** | ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=apache&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white) |
+| **데이터베이스** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **개발 환경** | ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-000000?style=for-the-badge&logo=googlegemini&logoColor=white) ![Codex CLI](https://img.shields.io/badge/Codex_CLI-412991?style=for-the-badge&logo=openai&logoColor=white) |
+
 ### 프론트엔드
 - Flutter
 
@@ -28,4 +36,3 @@
 ### 개발 환경
 - Antigravity IDE
 - Codex CLI
-
